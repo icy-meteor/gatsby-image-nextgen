@@ -74,7 +74,7 @@ Then in your `gatsby-config.js`:
 plugins: [
   `gatsby-transformer-sharp`,
   `gatsby-plugin-sharp`,
-  `@wardpeet/gatsby-image-nexgen`,
+  `@wardpeet/gatsby-image-nextgen`,
 ];
 ```
 
